@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**GuledMahdi00/GuledMahdi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there, my name is Guled Mustafe Mahdi
 
-Here are some ideas to get you started:
+I am currently studying Computer Science, in the 3rd year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The current programming langauges i know are.
+
+Java
+HTML
+JS
+CSS
+Python
+JQuery
+Bootstrap
+My Linkedin is https://www.linkedin.com/in/guled0/
