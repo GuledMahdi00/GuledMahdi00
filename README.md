@@ -2,7 +2,7 @@
 
 Hello there, my name is Guled Mustafe Mahdi
 
-I am currently studying Computer Science, in the 3rd year.
+I have a bachelor in  Information Technology
 
 The current programming langauges i know are.
 ### Language and Tools
